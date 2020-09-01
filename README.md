@@ -32,11 +32,3 @@ or
 ```sh
 npm run build
 ``` 
-### To run the server run the following command
-```sh
-yarn start
-```
-or 
-```sh
-npm start
-```
